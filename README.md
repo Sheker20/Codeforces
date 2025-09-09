@@ -45,3 +45,30 @@ git clone https://github.com/<your-username>/Codeforces.git
 2.Navigate to the desired contest or algorithm folder.
 
 3.Open and run the code in your preferred IDE.
+
+## 🏅 Achievements
+
+Participated in Codeforces contests regularly.
+
+Solutions cover a wide range of algorithms and problem types.
+
+Continuously improving problem-solving skills and code efficiency.
+
+## ✨ Contributions
+
+This repository is primarily my personal practice collection.
+
+If you want to contribute or suggest optimizations, feel free to create a pull request or open an issue.
+
+## 📬 Connect with Me
+
+- [GitHub](https://github.com/Sheker20)
+- [LinkedIn](https://www.linkedin.com/in/sheker-kalivarapu-430465257/)
+- [Codeforces Profile](https://codeforces.com/profile/Sheker20)
+
+
+---
+
+If you want, I can also make an **even cooler version with badges** showing your programming languages, number of problems solved, and Codeforces rating — which makes the repo look super professional on GitHub.  
+
+Do you want me to make that version too?
